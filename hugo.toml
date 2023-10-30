@@ -1,0 +1,4 @@
+baseURL = 'https://azharmgh.github.io/'
+languageCode = 'en-us'
+title = 'Azhar Manzoor'
+theme = 'ananke'
