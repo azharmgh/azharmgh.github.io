@@ -5,10 +5,10 @@ showcase:
   subtitle: "Software Architect"
   description: "Seasoned software and solution architect."
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/pexels-pixabay-459653-small.jpg"
+    _2x: "img/showcase/pexels-pixabay-459653-small.jpg"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/pexels-pixabay-459653-small.jpg"
 
   button:
     icon: "icon-mail-fill"
