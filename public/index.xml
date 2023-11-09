@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Azhar Manzoor</title>
+    <link>https://azharmgh.github.io/</link>
+    <description>Recent content on Azhar Manzoor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 20:59:54 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>https://azharmgh.github.io/skills/skills/</link>
+      <pubDate>Tue, 07 Nov 2023 20:59:54 -0700</pubDate>
+      
+      <guid>https://azharmgh.github.io/skills/skills/</guid>
+      <description>this is skills</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://azharmgh.github.io/about/about/</link>
+      <pubDate>Tue, 07 Nov 2023 20:55:05 -0700</pubDate>
+      
+      <guid>https://azharmgh.github.io/about/about/</guid>
+      <description>this is about</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://azharmgh.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 07 Nov 2023 20:55:05 -0700</pubDate>
+      
+      <guid>https://azharmgh.github.io/posts/firstpost/</guid>
+      <description>this is first post</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Azhar Manzoor</title>
+    <link>https://azharmgh.github.io/about/</link>
+    <description>Recent content in Abouts on Azhar Manzoor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 20:55:05 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://azharmgh.github.io/about/about/</link>
+      <pubDate>Tue, 07 Nov 2023 20:55:05 -0700</pubDate>
+      
+      <guid>https://azharmgh.github.io/about/about/</guid>
+      <description>this is about</description>
+    </item>
+    
+  </channel>
+</rss>
