@@ -4,6 +4,11 @@
     <title>Posts on Azhar Manzoor</title>
     <link>https://azharmgh.github.io/posts/</link>
     <description>Recent content in Posts on Azhar Manzoor</description>
+    <image>
+      <title>Azhar Manzoor</title>
+      <url>https://azharmgh.github.io/azhar.png</url>
+      <link>https://azharmgh.github.io/azhar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Nov 2023 20:55:05 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />

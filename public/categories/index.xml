@@ -4,6 +4,11 @@
     <title>Categories on Azhar Manzoor</title>
     <link>https://azharmgh.github.io/categories/</link>
     <description>Recent content in Categories on Azhar Manzoor</description>
+    <image>
+      <title>Azhar Manzoor</title>
+      <url>https://azharmgh.github.io/azhar.png</url>
+      <link>https://azharmgh.github.io/azhar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://azharmgh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

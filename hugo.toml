@@ -2,30 +2,128 @@ baseURL = "https://azharmgh.github.io/"
 languageCode = "en-us"
 title = "Azhar Manzoor"
 theme = "PaperMod"
+paginate = 5
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
 
 
-sectionPagesMenu = "main"
+
+[minify]
+disableXML = true
+minifyOutput = true
 
 
-[params.profileMode]
-enabled = true
-title =  "Azhar Manzoor"
-subtitle = "Software and Solution Archtiect"
-imageUrl = "azhar.png"
-imageTitle = "Azhar Manzoor" 
-imageWidth = 120  
-imageHeight = 120    
-[[buttons]]
-name = "Github"
-url = "https://github.com/"
+  
+[params]
+env = "production"
+title = "Azhar Manzoor"
+description = "Azhar Manzoor's site"
+keywords = [ "Blog", "Portfolio", "PaperMod", "API", "Microservices","Cloud", "GCP", "Azure" ]
+author = "Azhar Manzoor"
+images = [ "azhar.png" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = false
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
 
-[[socialIcons]]
-name = "LinkedIn"
-url = "https://linkedin.com"
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
 
-[[socialIcons]]
-name = "github"
-url = "https://github.com/"
+  [params.label]
+  text = "Azhar Manzoor"
+  icon = "/azhar.png"
+  iconHeight = 35
 
-        
-        
+  [params.profileMode]
+  enabled = true
+  title = "Azhar Manzoor"
+  subtitle = "Software and Solution Archtiect focused on backend platform engineering, APIs, legacy modernization, cloud enablement, data pipelines and data inegration."
+  imageUrl = "azhar.png"
+  imageTitle = "Azhar Manzoor" 
+  imageWidth = 140  
+  imageHeight = 140  
+
+    [[params.profileMode.buttons]]
+    name = "About"
+    url = "about"
+
+    [[params.profileMode.buttons]]
+    name = "Skills"
+    url = "skills"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to my blog"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/azharmanzoor1/"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/azharmgh"
+
+
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/azharmgh/azharmgh.github.io/tree/main/public"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "skills"
+name = "Skills"
+url = "/skills/"
+weight = 20
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+
+
+[markup.highlight]
+noClasses = false

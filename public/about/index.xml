@@ -4,6 +4,11 @@
     <title>Abouts on Azhar Manzoor</title>
     <link>https://azharmgh.github.io/about/</link>
     <description>Recent content in Abouts on Azhar Manzoor</description>
+    <image>
+      <title>Azhar Manzoor</title>
+      <url>https://azharmgh.github.io/azhar.png</url>
+      <link>https://azharmgh.github.io/azhar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Nov 2023 20:55:05 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/about/index.xml" rel="self" type="application/rss+xml" />
