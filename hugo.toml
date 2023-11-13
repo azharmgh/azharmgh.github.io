@@ -28,7 +28,7 @@ DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
@@ -87,9 +87,9 @@ tocopen = false
 
 
   [params.cover]
-  hidden = true
-  hiddenInList = true
-  hiddenInSingle = true
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
 
   [params.editPost]
   URL = "https://github.com/azharmgh/azharmgh.github.io/tree/main/public"

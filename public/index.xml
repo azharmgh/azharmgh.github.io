@@ -11,23 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2023 20:59:54 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 20:55:05 -0700</lastBuildDate><atom:link href="https://azharmgh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skills</title>
-      <link>https://azharmgh.github.io/skills/skills/</link>
+      <link>https://azharmgh.github.io/skills/</link>
       <pubDate>Tue, 07 Nov 2023 20:59:54 -0700</pubDate>
       
-      <guid>https://azharmgh.github.io/skills/skills/</guid>
-      <description>this is skills</description>
+      <guid>https://azharmgh.github.io/skills/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://azharmgh.github.io/about/about/</link>
+      <link>https://azharmgh.github.io/about/</link>
       <pubDate>Tue, 07 Nov 2023 20:55:05 -0700</pubDate>
       
-      <guid>https://azharmgh.github.io/about/about/</guid>
-      <description>this is about</description>
+      <guid>https://azharmgh.github.io/about/</guid>
+      <description>Seasoned software engineer/solution/cloud solution/architect. Focused on backend engineering, APIs, legacy modernization, cloud enablement, AI/Data pipelines, data integration.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Tue, 07 Nov 2023 20:55:05 -0700</pubDate>
       
       <guid>https://azharmgh.github.io/posts/firstpost/</guid>
-      <description>this is first post</description>
+      <description></description>
     </item>
     
   </channel>
