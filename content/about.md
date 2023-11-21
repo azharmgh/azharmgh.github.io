@@ -15,7 +15,7 @@ My [skills](/skills/)
 
 I started out as a C++ software engineer, then moved to Java, C# and Python. Most recently I am looking into [Rust](https://www.rust-lang.org/) and really like the langauge. 
 
-I have a strong background in OOD, however, I prefer the Functional paradim over OO. 
+I have a strong background in OOD, however, I prefer the Functional paradigm over OO. 
 
 I have had the opportunity to work in all major public clouds: AWS, Azure, GCP. I am more proficient in Azure and GCP. 
 
