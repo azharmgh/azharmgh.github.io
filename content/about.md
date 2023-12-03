@@ -21,7 +21,7 @@ For a list of my projects/work history you can visit my [LinkedIn](https://www.l
 - Expose Data and AI  services using APIs developed in python , node running on k8s.
 - Build AI and Machine Learning pipelines that train and score AI models. 
 
-## Application and API 
+## Application and API/Microservices 
 - Modernize legacy applications to distributed microservices running on k8s. 
 - Modernize a monolith application into modular microservices/APIs.
 

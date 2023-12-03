@@ -15,7 +15,7 @@ draft = false
 - Java
 - C#
 - Python
-- JavaScrpt (Node)
+- JavaScript (Node)
 
 ### Data
 - Azure Databricks
