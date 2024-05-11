@@ -23,7 +23,7 @@ title = "Azhar Manzoor"
 description = "Azhar Manzoor's site"
 keywords = [ "Blog", "Portfolio", "PaperMod", "API", "Microservices","Cloud", "GCP", "Azure" ]
 author = "Azhar Manzoor"
-images = [ "azhar.png" ]
+images = [ "wip-image.png" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -52,14 +52,14 @@ tocopen = false
 
   [params.label]
   text = "Azhar Manzoor"
-  icon = "/azhar.png"
+  icon = "/wip-image.png"
   iconHeight = 35
 
   [params.profileMode]
   enabled = true
   title = "Azhar Manzoor"
   subtitle = "Software and Solution Archtiect focused on backend platform engineering, APIs, legacy modernization, cloud enablement, data pipelines and data inegration."
-  imageUrl = "azhar.png"
+  imageUrl = "wip-image.png"
   imageTitle = "Azhar Manzoor" 
   imageWidth = 140  
   imageHeight = 140  
