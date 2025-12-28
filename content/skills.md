@@ -12,10 +12,11 @@ draft = false
 
 
 ### Programming Languages
-- Java
+- Rust
 - C#
 - Python
 - JavaScript (Node)
+- Java
 
 ### Data
 - Azure Databricks

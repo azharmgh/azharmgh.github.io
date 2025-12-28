@@ -24,7 +24,7 @@ Most of my experience is in backend engineering and I'll be speaking from a back
       Convoluted way to differentiate environments and reading configuration values from files and [environment](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-8.0) variables with different prefixes. 
       - **Middleware:** Ceremonious middleware that forces you to use the middleware pipeline for things such as routing, authentication, authorization etc..
 2. ***Runaway DI***
-      - I am all for separation of concerns, inversion of control and encapsulating interfaces/behavior. However, the opinionated nature of DI containers just adds a lot of bloat as well as what I call a runaway DI: where as long as we can use constructor injection to associat with any other object of any class, leads to a plethora of classes/objects. 
+      - I am all for separation of concerns, inversion of control and encapsulating interfaces/behavior. However, the opinionated nature of DI containers in Java and .NET just adds a lot of bloat as well as what I call a runaway DI: where as long as we can use constructor injection to associate with any other object of any class, leads to a plethora of classes/objects. 
 
 
 
